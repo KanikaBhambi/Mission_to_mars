@@ -20,9 +20,7 @@ In this project I used Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
 
 
 
-![Optional Text]
-(../master/Image1.png)
+![Optional Text](../master/Image1.png)
 
-![Optional Text]
-(../master/Image2.png)
+![Optional Text](../master/Image2.png)
 
