@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project I used Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter to get data on the planet Mars through various websites and created a HTML page using MongoDB with Flask that displays all of the information that was scraped from the URLs in a [webpage part1](.Images/Images1.png/) and [webpage part2](.Images/Images2.png/)
+In this project I used Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter to get data on the planet Mars through various websites and created a HTML page using MongoDB with Flask that displays all of the information that was scraped from the URLs in a [webpage part1](.Images/Images1/) and [webpage part2](.Images/Images/)
 
 ## Requirements
 
