@@ -20,7 +20,9 @@ In this project I used Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
 
 
 
-https://github.com/KanikaBhambi/Mission_to_mars/blob/master/Image1.png
+![Optional Text]
+(../master/Image1.png)
 
-https://github.com/KanikaBhambi/Mission_to_mars/blob/master/Image2.png
+![Optional Text]
+(../master/Image2.png)
 
